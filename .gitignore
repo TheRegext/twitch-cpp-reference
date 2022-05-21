@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/.vs/twitch-cpp-reference/v17
+/twitch-cpp-reference.vcxproj.user
+/twitch-cpp-reference.vcxproj.filters
